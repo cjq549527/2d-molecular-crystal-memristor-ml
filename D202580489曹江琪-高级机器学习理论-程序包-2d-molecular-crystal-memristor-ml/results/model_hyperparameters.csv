@@ -1,9 +1,0 @@
-﻿model,category,main_hyperparameters,rationale
-Logistic Regression,基础线性模型,C=1.0; max_iter=2000,可解释的线性分类基线。
-Linear SVM,基础间隔模型,C=1.0; kernel=linear; max_iter=-1,通过最大间隔边界检验线性可分性。
-Gaussian Naive Bayes,概率基线模型,default,在小样本条件下提供低方差概率基线。
-Random Forest,树集成模型,n_estimators=400; max_depth=5,通过自助采样和特征随机化降低单棵树方差。
-Extra Trees,强随机树集成模型,n_estimators=500; max_depth=5,使用更强随机切分增强小样本稳定性。
-HistGradientBoosting,梯度提升树模型,max_depth=None; max_iter=220; learning_rate=0.055,以逐步拟合残差的方式捕捉非线性特征组合。
-MLP,浅层神经网络,"max_iter=2500; learning_rate=constant; hidden_layer_sizes=(12, 6); alpha=0.05",通过非线性隐层学习材料描述符之间的组合关系。
-Soft Voting Ensemble,校准集成模型,default,融合线性、树模型和神经网络输出，降低单模型偶然性。

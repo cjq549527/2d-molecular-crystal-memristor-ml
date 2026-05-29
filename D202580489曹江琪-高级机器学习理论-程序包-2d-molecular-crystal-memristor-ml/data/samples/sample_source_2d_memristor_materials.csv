@@ -1,9 +1,0 @@
-﻿material,family,bandgap_eV,is_metal,defect_trap_score,ion_migration_score,air_stability_score,thermal_stability_score,fabrication_score,stm_evidence_score,surface_order_score,encapsulation_need_score,memristor_label,evidence_note,target
-h-BN,2D insulator,5.9,0,0.85,0.7,0.95,0.95,0.85,0.8,0.9,0.1,high,Layered h-BN memristors and artificial synapses are widely reported; defects and ion filling can mediate switching.,1
-MoS2,transition metal dichalcogenide,1.8,0,0.75,0.55,0.85,0.8,0.9,0.8,0.82,0.2,high,Representative 2D semiconductor with mature growth and device literature.,1
-WS2,transition metal dichalcogenide,2.0,0,0.65,0.5,0.85,0.78,0.82,0.7,0.78,0.2,medium,Stable 2D semiconductor; memristor-specific data less extensive than MoS2.,0
-WSe2,transition metal dichalcogenide,1.6,0,0.62,0.48,0.78,0.75,0.78,0.7,0.76,0.25,medium,2D semiconductor with defect-sensitive transport.,0
-MoSe2,transition metal dichalcogenide,1.5,0,0.65,0.5,0.76,0.74,0.76,0.68,0.75,0.28,medium,Comparable to MoS2 but generally less robust in broad device reports.,0
-MoTe2,transition metal dichalcogenide,1.1,0,0.7,0.55,0.55,0.65,0.65,0.62,0.68,0.45,medium,Phase and air-stability issues increase fabrication risk.,0
-Black phosphorus,elemental 2D semiconductor,0.3,0,0.7,0.45,0.25,0.45,0.55,0.7,0.72,0.85,medium,High mobility but strong ambient instability requires encapsulation.,0
-Graphene,2D semimetal,0.0,1,0.35,0.25,0.95,0.95,0.95,0.9,0.95,0.05,low,Excellent electrode/channel material but semimetallicity weakens use as standalone resistive switching layer.,0
