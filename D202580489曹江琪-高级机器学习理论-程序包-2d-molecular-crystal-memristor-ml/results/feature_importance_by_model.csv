@@ -1,0 +1,81 @@
+﻿model,feature,model_importance
+Logistic Regression,bandgap_eV,0.08315493468456304
+Logistic Regression,is_metal,0.13792292112352017
+Logistic Regression,defect_trap_score,0.19040057852376882
+Logistic Regression,ion_migration_score,0.255559198768445
+Logistic Regression,air_stability_score,0.01819267921094652
+Logistic Regression,thermal_stability_score,0.02817101245083275
+Logistic Regression,fabrication_score,0.05379100110854302
+Logistic Regression,stm_evidence_score,0.012535690906544508
+Logistic Regression,surface_order_score,0.07575096689109174
+Logistic Regression,encapsulation_need_score,0.1445210163317443
+Linear SVM,bandgap_eV,0.0029742865458545777
+Linear SVM,is_metal,0.1578352695363802
+Linear SVM,defect_trap_score,0.25949611354543645
+Linear SVM,ion_migration_score,0.337267243281063
+Linear SVM,air_stability_score,0.041349653678928226
+Linear SVM,thermal_stability_score,0.01014224080404655
+Linear SVM,fabrication_score,0.08973299475743608
+Linear SVM,stm_evidence_score,0.03122124825017777
+Linear SVM,surface_order_score,0.03644866301716057
+Linear SVM,encapsulation_need_score,0.0335322865835166
+Gaussian Naive Bayes,bandgap_eV,0.0
+Gaussian Naive Bayes,is_metal,0.40217391304347794
+Gaussian Naive Bayes,defect_trap_score,0.3284646739130434
+Gaussian Naive Bayes,ion_migration_score,0.1752717391304349
+Gaussian Naive Bayes,air_stability_score,0.022078804347826202
+Gaussian Naive Bayes,thermal_stability_score,0.006453804347826121
+Gaussian Naive Bayes,fabrication_score,0.002377717391304391
+Gaussian Naive Bayes,stm_evidence_score,0.0003396739130434761
+Gaussian Naive Bayes,surface_order_score,0.0020380434782608565
+Gaussian Naive Bayes,encapsulation_need_score,0.060801630434782684
+Random Forest,bandgap_eV,0.12957990867909822
+Random Forest,is_metal,0.004459832869661874
+Random Forest,defect_trap_score,0.4496918709198897
+Random Forest,ion_migration_score,0.22735029347942715
+Random Forest,air_stability_score,0.015102378245472937
+Random Forest,thermal_stability_score,0.02244964585196542
+Random Forest,fabrication_score,0.08106726247405975
+Random Forest,stm_evidence_score,0.011528722094691
+Random Forest,surface_order_score,0.04508046165706687
+Random Forest,encapsulation_need_score,0.013689623728667086
+Extra Trees,bandgap_eV,0.07500142971336567
+Extra Trees,is_metal,0.053965307221422495
+Extra Trees,defect_trap_score,0.3164740726020134
+Extra Trees,ion_migration_score,0.3307464769475029
+Extra Trees,air_stability_score,0.029675101792118207
+Extra Trees,thermal_stability_score,0.026197738058733582
+Extra Trees,fabrication_score,0.081338655771068
+Extra Trees,stm_evidence_score,0.023405967783851275
+Extra Trees,surface_order_score,0.04086265943399067
+Extra Trees,encapsulation_need_score,0.02233259067593376
+HistGradientBoosting,bandgap_eV,0.0
+HistGradientBoosting,is_metal,0.0
+HistGradientBoosting,defect_trap_score,1.0
+HistGradientBoosting,ion_migration_score,0.0
+HistGradientBoosting,air_stability_score,0.0
+HistGradientBoosting,thermal_stability_score,0.0
+HistGradientBoosting,fabrication_score,0.0
+HistGradientBoosting,stm_evidence_score,0.0
+HistGradientBoosting,surface_order_score,0.0
+HistGradientBoosting,encapsulation_need_score,0.0
+MLP,bandgap_eV,0.006502554575011574
+MLP,is_metal,0.01254064096609384
+MLP,defect_trap_score,0.15699024616813756
+MLP,ion_migration_score,0.8221086855550394
+MLP,air_stability_score,0.0
+MLP,thermal_stability_score,0.0
+MLP,fabrication_score,0.001857872735717604
+MLP,stm_evidence_score,0.0
+MLP,surface_order_score,0.0
+MLP,encapsulation_need_score,0.0
+Soft Voting Ensemble,bandgap_eV,0.0
+Soft Voting Ensemble,is_metal,0.0
+Soft Voting Ensemble,defect_trap_score,0.9979605710401088
+Soft Voting Ensemble,ion_migration_score,0.002039428959891219
+Soft Voting Ensemble,air_stability_score,0.0
+Soft Voting Ensemble,thermal_stability_score,0.0
+Soft Voting Ensemble,fabrication_score,0.0
+Soft Voting Ensemble,stm_evidence_score,0.0
+Soft Voting Ensemble,surface_order_score,0.0
+Soft Voting Ensemble,encapsulation_need_score,0.0
