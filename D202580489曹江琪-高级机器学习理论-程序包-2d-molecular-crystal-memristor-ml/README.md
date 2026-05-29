@@ -15,6 +15,7 @@ python -m pip install -r requirements.txt
 ```
 
 如果 Windows 终端无法识别 `python`，请安装 Python 并勾选 “Add Python to PATH”，或者直接双击 `run_windows.bat`。
+注：若本地环境运行时间较长，可直接查看程序包内已生成的 results 目录；报告中的所有表格和程序图均来自该目录。
 
 ## 2. 一键运行
 
